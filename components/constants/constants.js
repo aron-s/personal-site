@@ -69,7 +69,7 @@ export const projects = [
       },
     ],
     image: '/img/moviereview.png',
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/aron-s/movies-api",
   },
   {
     name: "Nexo Chatbot",
@@ -94,7 +94,7 @@ export const projects = [
       },
     ],
     image: '/img/nexochatbot.png',
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/aron-s/CS491-Capstone-ADP",
   },
   {
     name: "MyWebClass",
