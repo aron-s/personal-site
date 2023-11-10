@@ -4,7 +4,7 @@ import { motion } from 'framer-motion'
 import { Tilt } from 'react-tilt'
 
 const Card = ({ index, name, description, tags, image, source_code_link}) => {
-  const total_delay = 0.75 * index;
+  const total_delay = 0.6 * (index % 3);
   return (
     <motion.div 
     variants={{
